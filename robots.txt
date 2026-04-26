@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wutian849-afk.github.io/finalwishes-checklist/sitemap.xml
